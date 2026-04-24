@@ -49,7 +49,7 @@ The assessment identified several critical vulnerabilities, including:
 ## Full Report
 
 You can view the complete security assessment here:
-👉 [Download Report](./report.pdf)
+ [Download Report](./report.pdf)
 
 ---
 
